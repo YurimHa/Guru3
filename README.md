@@ -14,7 +14,7 @@
 
 💻프론트엔드: [양아영](https://github.com/a-young0210), [정지연](https://github.com/stopkite)
 
-🎨디자인: [유은서](https://github.com/silverwest8), 하유림
+🎨디자인: [유은서](https://github.com/silverwest8), [하유림](https://github.com/YurimHa)
 
 ## 플로우 차트
 <img src = "https://user-images.githubusercontent.com/62979643/132036348-8a7e6ed2-9abd-4455-bc7f-7113eaac391f.jpg" width ="300" />   
